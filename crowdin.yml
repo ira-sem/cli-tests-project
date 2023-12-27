@@ -1,4 +1,3 @@
 files:
-  - source: /en/*.*
+  - source: /en/*.json
     translation: '%two_letters_code%/%original_file_name%'
-    "export_only_approved": true
